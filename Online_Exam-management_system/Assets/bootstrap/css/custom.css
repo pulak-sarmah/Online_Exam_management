@@ -1,0 +1,115 @@
+form label{
+  color: white;
+}
+
+.span9 p{
+  color: white;
+}
+.container .span9{
+	height: 900px;
+}
+
+.wrapper{
+  background-color: #831df4;
+}
+
+.navbar .navbar-inner .Users{
+  color: white;
+
+}
+
+.wrapper .container{
+  color: #1bb71b;
+}
+
+.navbar .navbar-inner{
+  background-color: #6d16ce;
+
+}
+
+.navbar .navbar-inner .brand{
+  color: white;
+
+}
+.navbar .navbar-inner .options{
+  color: white;
+
+}
+
+.nav .options{
+  color: white;
+
+}
+
+.navbar .navbar-inner a{
+  color: #6d16ce;
+
+}
+
+.module{
+  color: #1bb71b;
+}
+
+textarea{
+	resize: none;
+}
+
+/*signin*/
+.module-login{
+  background-color: #6d16ce; 
+}
+.module-head{
+  background-color: #6d16ce; 
+}
+.module-foot{
+  background-color: #6d16ce; 
+}
+.module-body{
+  background-color: #6d16ce; 
+  color: #6d16ce;
+}
+/*home page*/
+center{
+  color: #ef3b0e;
+}
+.btnadmin{
+      background-color: white;
+      border-radius: 5px;
+      border-color: #6d16ce;
+      color: #6d16ce;
+      padding: 15px 82px;
+      text-align: center;
+      text-shadow: 3px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    .btnadmin:hover{
+      background-color: #831df4 ;
+      border-color: #831df4;
+      color: white;
+    }
+    .btnuser{
+      background-color: #efe70e;
+      border-radius: 5px;
+      border-color: #efba0e;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 3px;
+      cursor: pointer;
+    }
+    .btnuser:hover{
+      background-color: #efba0e ;
+      border-color: #efe70e;
+      color: black;
+    }
+    .letters{
+      color: white;
+    }
+
