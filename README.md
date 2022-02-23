@@ -14,4 +14,4 @@ Software Used:XAMPP
 clone this repo to htdocs folder in XAMPP software.
 import the SQL file in XAMPP.
 replace database name file with your database credentials.
-open localhost in browser. you see the home page.
+open localhost in browser. you can see the home page.
